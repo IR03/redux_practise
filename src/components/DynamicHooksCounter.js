@@ -27,7 +27,7 @@ function DynamicHooksCounter() {
                     className="bg-red-400 text-white px-3 py-2 rounded shadow"
                     onClick={() => decrementHandler(2)}
                 >
-                    Decrement
+                 Decrement
                 </button>
             </div>
         </div>
